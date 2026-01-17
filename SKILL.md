@@ -1,6 +1,13 @@
+---
+name: ux-decisions
+description: "AI skill for the Making UX Decisions framework (uxdecisions.com) by Tommy Geoco. Use for UI/UX design decisions, design audits, pattern selection, visual hierarchy analysis, and reviewing designs for completeness. Enables rapid, intentional interface design with checklists for visual style, accessibility, social proof, navigation, and more."
+author: Tommy Geoco
+homepage: https://uxdecisions.com
+---
+
 # UX Decisions Skill
 
-A comprehensive UI design decision-making framework based on "Making UX Decisions" by Tommy Geoco. Enables rapid, intentional interface design in competitive, high-pressure environments.
+A comprehensive UI design decision-making framework based on "Making UX Decisions" by Tommy Geoco (uxdecisions.com). Enables rapid, intentional interface design in competitive, high-pressure environments.
 
 ## When to Use This Skill
 

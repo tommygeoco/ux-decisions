@@ -1,10 +1,11 @@
 {
   "name": "ux-decisions",
   "version": "1.0.0",
-  "description": "UX Decisions framework for rapid, intentional interface design. Based on 'Making UX Decisions' by Tommy Geoco.",
-  "keywords": ["ux", "design", "ui", "framework", "audit", "checklist", "ai-skill", "claude", "codex"],
-  "author": "Tommy Geoco",
+  "description": "AI skill for the Making UX Decisions framework — a software design decision-making system for rapid, intentional interface design. Learn more at uxdecisions.com",
+  "keywords": ["ux", "design", "ui", "framework", "audit", "checklist", "ai-skill", "claude", "codex", "clawdbot", "making-ux-decisions"],
+  "author": "Tommy Geoco <tommy@uxtools.co> (https://uxdecisions.com)",
   "license": "MIT",
+  "homepage": "https://uxdecisions.com",
   "repository": {
     "type": "git",
     "url": "https://github.com/tommygeoco/ux-decisions"
