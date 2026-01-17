@@ -1,0 +1,26 @@
+{
+  "name": "ux-decisions",
+  "version": "1.0.0",
+  "description": "UX Decisions framework for rapid, intentional interface design. Based on 'Making UX Decisions' by Tommy Geoco.",
+  "keywords": ["ux", "design", "ui", "framework", "audit", "checklist", "ai-skill", "claude", "codex"],
+  "author": "Tommy Geoco",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tommygeoco/ux-decisions"
+  },
+  "files": [
+    "SKILL.md",
+    "CLAUDE.md",
+    "references/"
+  ],
+  "exports": {
+    ".": "./SKILL.md",
+    "./skill": "./SKILL.md",
+    "./claude": "./CLAUDE.md",
+    "./references/*": "./references/*"
+  },
+  "scripts": {
+    "postinstall": "echo '\\n📖 UX Decisions skill installed. Add to your project:\\n   - Clawdbot: Copy to ~/clawd/skills/ux-decisions/\\n   - Claude: Copy CLAUDE.md to your project root\\n'"
+  }
+}
