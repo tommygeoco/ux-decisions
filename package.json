@@ -1,8 +1,21 @@
 {
   "name": "ui-audit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AI skill for automated UI audits. Evaluate interfaces against proven UX principles for visual hierarchy, accessibility, cognitive load, and more. Based on Making UX Decisions by Tommy Geoco.",
-  "keywords": ["ux", "design", "ui", "audit", "checklist", "ai-skill", "claude", "codex", "clawdbot", "ui-audit", "accessibility", "visual-hierarchy"],
+  "keywords": [
+    "ux",
+    "design",
+    "ui",
+    "audit",
+    "checklist",
+    "ai-skill",
+    "claude",
+    "codex",
+    "clawdbot",
+    "ui-audit",
+    "accessibility",
+    "visual-hierarchy"
+  ],
   "author": "Tommy Geoco <tommy@uxtools.co> (https://uxtools.co)",
   "license": "MIT",
   "homepage": "https://audit.uxtools.co",
